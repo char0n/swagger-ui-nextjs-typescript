@@ -11,15 +11,15 @@
   "dependencies": {
     "@types/swagger-ui-react": "^4.18.1",
     "next": "13.5.4",
-    "react": "^18",
-    "react-dom": "^18",
-    "swagger-ui-react": "5.9.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swagger-ui-react": "5.11.0"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
+    "@types/react": "^18.2.47",
+    "@types/react-dom": "^18.2.18",
+    "eslint": "^8.56.0",
     "eslint-config-next": "13.5.4",
     "typescript": "^5"
   }
